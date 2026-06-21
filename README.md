@@ -1,2 +1,14 @@
 # tx-fast-pages
-HTML page archive and documentation
+
+自动发布文件目录
+
+本仓库用于整理 HTML 页面输出结果，并保留对应的仓库说明。
+
+## 目录内容
+
+- 页面文件：发布后的 HTML
+- 说明文件：README.md
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
